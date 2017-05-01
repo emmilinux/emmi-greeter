@@ -5,11 +5,11 @@ forked from <a href="https://github.com/Dev-Linux/qt-lightdm-greeter">qt-lightdm
 ## Instalação
 
 git clone https://github.com/emmilinux/emmi-greeter.git
+
 cd emmi-greeter
 cd build
 cmake ..
 make 
-
 sudo make install
 
 
