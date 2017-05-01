@@ -1,6 +1,6 @@
 # emmi-greeter
 
-forked from <a href="https://github.com/Dev-Linux/qt-lightdm-greeter">qt-lightdm-greeter</a>
+forked from <a href="https://github.com/surlykke/qt-lightdm-greeter">qt-lightdm-greeter</a>
 
 ## Instalação
 
