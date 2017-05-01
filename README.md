@@ -8,6 +8,7 @@ git clone https://github.com/emmilinux/emmi-greeter.git
 
 ```
 cd emmi-greeter
+mkdir build
 cd build
 cmake ..
 make 
