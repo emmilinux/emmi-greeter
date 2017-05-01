@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/dropdown.svg</file>
+        <file>resources/leaveIcon.svg</file>
+        <file>resources/seta.svg</file>
+    </qresource>
+</RCC>
