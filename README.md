@@ -20,3 +20,7 @@ greeter-session=emmi-greeter<br>
 
 ## configuração
 `/etc/lightdm/emmi-greeter.conf`
+
+<br>
+
+![CSCore Logo](https://raw.githubusercontent.com/emmilinux/emmi-greeter/master/screeshot/greeter.png)
