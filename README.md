@@ -1,6 +1,10 @@
-# emmi-greeter
+<h1 align="center">Emmi-Greeter</h1>
 
-forked from <a href="https://github.com/surlykke/qt-lightdm-greeter">qt-lightdm-greeter</a>
+<p align="center">forked from <a href="https://github.com/surlykke/qt-lightdm-greeter">qt-lightdm-greeter</a></p>
+
+<p align="center">
+<a href="https://github.com/emmilinux/emmi-greeter/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-yellow.svg" alt="license"/></a></p>
+
 
 ## Instalação
 
